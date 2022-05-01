@@ -8,3 +8,4 @@ draft: false
 - [Youtube](https://www.youtube.com/channel/UCnSVkc-lkfsFHhJrAyPGKbQ)
 - [Twitter](https://twitter.com/wataasa_kinu)
 - [カクヨム](https://kakuyomu.jp/users/wataasa_kinup)
+- [Writone](https://www.writone.com/profile/dZcgF32rLHNxIeqJfQdtYHTXmLC3?tab=books)
