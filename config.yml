@@ -1,0 +1,50 @@
+baseURL: 'https://kinuwataasa.github.io'
+canonifyurls: true
+languageCode: 'ja-jp'
+paginate: 5
+title: "綿麻きぬの天然素材置き場"
+theme: 'PaperMod'
+
+params:
+  keywords: [Blog, Portfolio]
+  author: KinuWataasa
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  disableSpecial1stProst: false
+  disableScrollToTop: false
+
+  ShowReadingTime: true
+  ShowShareButton: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "KinuWataasa"
+    subtitle: "It is the KinuWstaasa's website."
+
+  label:
+    text: "綿麻きぬの創作"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/wataasa_kinu"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCnSVkc-lkfsFHhJrAyPGKbQ"
+
+menu:
+  main:
+    - identifier: novels
+      name: 小説
+      url: novels
+      weight: 5
+    - identifier: profile
+      name: プロフィール
+      url: fixed/profile
+      weight: 10
+    - identifier: works
+      name: 作品一覧
+      url: fixed/works
+      weight: 15
