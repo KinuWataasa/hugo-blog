@@ -45,6 +45,6 @@ menu:
       url: fixed/profile
       weight: 10
     - identifier: works
-      name: 作品一覧
+      name: 作品置き場一覧
       url: fixed/works
       weight: 15
