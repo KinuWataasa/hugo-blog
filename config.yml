@@ -38,7 +38,7 @@ menu:
   main:
     - identifier: novels
       name: 小説
-      url: 小説
+      url: novels
       weight: 5
     - identifier: profile
       name: プロフィール
